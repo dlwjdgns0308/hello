@@ -28,6 +28,7 @@
 
 
 - E-mail: dlwjdgns0308@naver.com
- - 포트폴리오: https://www.notion.so/8a2aafc115a643da9fa6c52f9ec04e18
+- 포트폴리오: https://www.notion.so/8a2aafc115a643da9fa6c52f9ec04e18
+- 관련 논문: <a href="./KIPS_C2022B0331F.docx">딥러닝 기술을 활용한 카메라 기반 캐릭터 생성 및 모션 제어 시스템 개발(Lee Jeong-Hun, ack 2022)</a>
 
 
