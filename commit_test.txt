@@ -3,5 +3,5 @@
 front-end: React.js, Next.js
 back-end: Node.js, Spring, JAVA
 DB: MySQL
-frame work: Tensorflow, Pytorch, Unity, Express
-주력 언어: Python
+frame work: Tensorflow, Pytorch, Unity, Express, Keras
+주력 언어: Python, Java Script
