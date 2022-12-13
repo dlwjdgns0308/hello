@@ -3,7 +3,6 @@
 
 안녕하세요 <strong>AI Engineer를 꿈꾸는 개발자 이정훈</strong>입니다. 
 ## Development Stack
----
 
 ### <strong>AI Stack</strong> 
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -26,7 +25,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 
 ## Link
----
+
 
 - E-mail: dlwjdgns0308@naver.com
  - 포트폴리오: https://www.notion.so/8a2aafc115a643da9fa6c52f9ec04e18
