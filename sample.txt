@@ -14,3 +14,11 @@ git commit -m "comment"
 
 //커밋 이력 확인
 git log
+
+//Github와 연결
+git remote add origin [git주소]
+
+//github에 업로드
+git push -u origin master // 맨처음
+git push
+
