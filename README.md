@@ -1,8 +1,9 @@
 # Introduce 
  <img src="./01.jpg" style="width:150px">
 
-안녕하세요 <strong>AI Engineer</strong>를 꿈꾸는 이정훈입니다. 
+안녕하세요 <strong>AI Engineer를 꿈꾸는 개발자 이정훈</strong>입니다. 
 ## Development Stack
+---
 
 ### <strong>AI Stack</strong> 
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -24,18 +25,10 @@
 - <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 
-
+## Link
 ---
 
-어쩌구 저쩌구 
+- E-mail: dlwjdgns0308@naver.com
+ - 포트폴리오: https://www.notion.so/8a2aafc115a643da9fa6c52f9ec04e18
 
-- 리스트 
-
-1. 숫자리스트
-
-front-end: React.js, Next.js
-back-end: Node.js, Spring, JAVA
-DB: MySQL
-frame work: Tensorflow, Pytorch, Unity, Express, Keras,Mediapipe
-주력 언어: Python, Java Script
 
