@@ -1,1 +1,16 @@
 bvbbv
+
+// 로컬 저장소 생성
+git init
+
+//파일 만들고 작업
+touch sample.txt
+//버전 관리 대상으로 등록
+git add sample.txt
+// 현재 상태
+git status
+//기록
+git commit -m "comment"
+
+//커밋 이력 확인
+git log
