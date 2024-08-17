@@ -1,5 +1,5 @@
 # Introduce 
- <img src="./02.png" style="width:150px">
+
 
 안녕하세요 <strong>AI Engineer를 꿈꾸는 개발자 이정훈</strong>입니다. 
 ## Development Stack
